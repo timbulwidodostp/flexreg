@@ -1,6 +1,8 @@
 # flexreg
 Flexible Regression Models for Bounded Continuous Responses Use flexreg (FlexReg) With (In) R Software
 
+https://www.youtube.com/watch?v=cMTqooS2zAc
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
